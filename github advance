@@ -1,0 +1,9 @@
+git branch
+
+$ git branch nama_branch
+$ git checkout nama_branch
+$ git branch -D nama_branch ( hapus branch )
+
+$ git push origin nama_branch 
+
+git push 

@@ -1,0 +1,4 @@
+process argv
+
+let argv = process.argv;
+console.log(argv)

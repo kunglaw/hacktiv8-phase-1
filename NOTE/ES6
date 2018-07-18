@@ -1,0 +1,7 @@
+let = hanya bisa diakses di dalam scope 
+const = kontanta 
+var = global, yaitu bisa diakses di scope manapun 
+
+function : 
+- expression 
+- declaration
